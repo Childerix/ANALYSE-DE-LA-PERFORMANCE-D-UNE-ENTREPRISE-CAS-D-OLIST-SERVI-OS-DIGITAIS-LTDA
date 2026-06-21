@@ -1,3 +1,5 @@
+### ***Lien vers le notebook (Python): https://github.com/Childerix/ANALYSE-DE-LA-PERFORMANCE-D-UNE-ENTREPRISE-CAS-D-OLIST-SERVI-OS-DIGITAIS-LTDA/blob/main/python.ipynb***
+
 ### **_Présentation du Projet_**
 
 Ce projet consiste en une analyse complète de la performance de la plateforme e-commerce Olist, marketplace brésilienne spécialisée dans la vente de produits en ligne. L'objectif est d'évaluer la performance globale de l'entreprise à travers 4 dimensions clés : Commercial, Satisfaction Client, Logistique et Marketing.

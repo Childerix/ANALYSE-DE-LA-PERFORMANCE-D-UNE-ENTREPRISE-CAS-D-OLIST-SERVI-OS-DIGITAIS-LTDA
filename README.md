@@ -1,6 +1,6 @@
 ### *Lien vers le notebook (Python): https://github.com/Childerix/ANALYSE-DE-LA-PERFORMANCE-D-UNE-ENTREPRISE-CAS-D-OLIST-SERVI-OS-DIGITAIS-LTDA/blob/main/python.ipynb*
 
-### *Lien vers le fichier de nettoyage (Data cleaning avec SQL) : 
+### *Lien vers le fichier de nettoyage (Data cleaning avec SQL) : https://github.com/Childerix/ANALYSE-DE-LA-PERFORMANCE-D-UNE-ENTREPRISE-CAS-D-OLIST-SERVI-OS-DIGITAIS-LTDA/blob/main/Document.sql* 
 
 ### **_Présentation du Projet_**
 
